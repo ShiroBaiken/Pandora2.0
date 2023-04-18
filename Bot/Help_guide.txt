@@ -1,0 +1,16 @@
+Sending uncompressed picture, gif or mp4 file\n
+usually it will trigger a response from a bot 
+containing hashtags collected 
+from sites containing an image and subsequently abbreviated.\n
+For search used respoce from SauceNAO.
+If you not satisfed with result, the bot has several editing options 
+available by clicking the 'Not Ok' button 
+from the first inline keyboard that appears 
+(hereinafter referred to as the confirmation keyboard).
+As such:\n
+Search again with Yandex - perform reverse search via Yandex,
+Takes LONG time, sometimes help, when SauceNAO fails to find reference
+Tags filters - some types of content prohibited by default, these option
+show opportunities to ignore this
+Edit tags - change result message of bot manually, guide for this will be shown
+ 
