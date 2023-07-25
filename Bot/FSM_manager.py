@@ -229,7 +229,7 @@ class FSMManager:
             await NormalCall.EditMenu.in_filters_menu.set()
 
     async def set_default(self):
-        """creates missing 'last_capture' and 'hictory' keys in storage with default values"""
+        """creates missing 'last_capture' and 'history' keys in storage with default values"""
         self.update_last_capture({
                 "fandom": None,
                 "character": None,
